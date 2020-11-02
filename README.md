@@ -1,3 +1,4 @@
 # hello-world
 
-here is the development
+here is the development.
+The changes have been made.
